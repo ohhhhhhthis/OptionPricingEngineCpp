@@ -1,0 +1,1 @@
+A C++ option pricing engine implementing analytical models, binomial lattice methods (binomial Black Scholes with Richardson extrapolation), and Monte Carlo simulations with variance reduction techniques (antithetic approach, control variate, moment matching, empirical martingale simulation) for European, Asian and American options.
